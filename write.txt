@@ -1,3 +1,4 @@
 this is write.txt file
 added some txt
 something write
+old is gold
