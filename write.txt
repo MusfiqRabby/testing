@@ -1,4 +1,3 @@
 this is write.txt file
 added some txt
-something write
-old id gold
+bug fixing
